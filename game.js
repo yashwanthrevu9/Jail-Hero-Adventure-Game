@@ -1,4 +1,4 @@
-import Phaser from 'phaser';
+import Phaser from 'Phaser';
 
 /* ------------------------------------------------------------------
    SETTINGS - change these numbers to tune the game
