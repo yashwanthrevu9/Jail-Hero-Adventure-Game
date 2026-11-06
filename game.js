@@ -294,7 +294,7 @@ class ForestScene extends Phaser.Scene {
     }
 
     preload() {
-        this.load.image('hero', '/hero.png');
+        this.load.image('hero', 'public/hero.png');
     }
 
     create() {
