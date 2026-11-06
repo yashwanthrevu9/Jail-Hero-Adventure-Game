@@ -1,4 +1,4 @@
-import Phaser from 'Phaser';
+
 
 /* ------------------------------------------------------------------
    SETTINGS - change these numbers to tune the game
@@ -14,14 +14,14 @@ const TAP_SOUNDS = false;      // jump and score beeps: true = on, false = off
 const SAD_TROMBONE = true;     // "wah wah" when you crash: true = on, false = off
 
 // Background audio: plays again and again, the whole time the game is being played
-const BACKGROUND_MUSIC = '/funny-audio.mp3';
+const BACKGROUND_MUSIC = './public/funny-audio.mp3';
 const MUSIC_VOLUME = 1;        // 0 = silent, 1 = full
 
 // Funny clips shown on the game over screen (files go in the public folder).
 // A different clip is picked each time. zoom: 1 = normal, bigger = crops black borders.
 // audio: (optional) a separate sound file that plays together with a silent clip.
 const VIDEO_CLIPS = [
-    { src: '/funny.mp4',  zoom: 1, audio: '/malli-modhalu.mp3' },
+    { src: '/funny.mp4',  zoom: 1, audio: './public/malli-modhalu.mp3' },
     // { src: '/funny2.mp4', zoom: 1 },
     // { src: '/funny3.mp4', zoom: 1 },
 ];
