@@ -64,3 +64,15 @@ Jail-Hero-Adventure-Game/
 
 ## License
 This project is developed for educational and personal learning purposes.
+
+## Play the Game
+
+[Click Here to Play Jail Hero Adventure Game](https://yashwanthrevu9.github.io/Jail-Hero-Adventure-Game/)
+
+## Game Screenshots
+
+<img width="367" height="495" alt="Game banner" src="https://github.com/user-attachments/assets/42ea4bf1-df11-4c44-b126-051042fc688a" />
+<img width="510" height="492" alt="Gameplay demonstration GIF" src="https://github.com/user-attachments/assets/3ce85660-ebf1-4928-9465-776cf1f00479" />
+<img width="1387" height="1134" alt="Hero image" src="https://github.com/user-attachments/assets/fb49048b-5766-4263-9c43-9049b46b590d" />
+<img width="373" height="511" alt="Gameplay Screenshots" src="https://github.com/user-attachments/assets/914ceb1c-cf65-4f30-b6c6-18d39a624db8" />
+
