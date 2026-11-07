@@ -299,7 +299,7 @@ class ForestScene extends Phaser.Scene {
 
     create() {
         // Inside create() or wherever you spawn the sprite
-         this.hero = this.add.sprite(x, y, 'hero');
+         this.hero = this.add.sprite(200, 300, 'hero');
         // Dark cell backdrop (dark grey/black)
         this.add.rectangle(200, 350, 400, 700, 0x1a1a1a);
 
